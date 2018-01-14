@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/Hypernovalabs2/.dotnet/store/|arch|/|tfm|",
+      "/Users/Hypernovalabs2/.nuget/packages"
+    ]
+  }
+}
