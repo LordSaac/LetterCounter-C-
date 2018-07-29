@@ -20,6 +20,8 @@ _Search if there is a certain letter in a paragraph and find how many times it i
 
 **[View Example Project](https://github.com/LordSaac/LetterCounter-C-/blob/master/Example/Program.cs)**
 
+
+***
 Copyright 2018 Isaac G. Banda
 
 Licensed under the Apache License, Version 2.0 (the "License");
